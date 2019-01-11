@@ -10,6 +10,6 @@ Pod::Spec.new do |s|
   s.author       = { 'Jean Azzopardi' => 'jean.azzopardi.jazz@gmail.com' }
   s.source       = { :git => 'https://github.com/JeanAzzopardi/OrderedDictionary.git', :tag => "v#{s.version}" }
   s.source_files  = 'Sources', 'Sources/**/*.{swift}'
-  s.swift_version = '4.0'
+  s.swift_version = '4.2'
   s.ios.deployment_target = '8.0'
 end
