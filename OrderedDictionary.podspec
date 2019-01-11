@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'OrderedDictionary'
-  s.version      = '2.1.0'
+  s.version      = '2.1.2'
   s.summary      = 'Ordered dictionary data structure implementation in Swift'
   s.description  = <<-DESC
   OrderedDictionary is a lightweight implementation of an ordered dictionary data structure in Swift.
